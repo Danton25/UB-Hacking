@@ -24,7 +24,7 @@ const SignIn = () => {
                     Sign Up
                 </button>
 
-                <h5 Link to = "/signin">Already have an account</h5>
+                <h5><Link to = "/signin">Already have an account</Link></h5>
             </div>
         </div>
     );
